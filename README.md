@@ -1,2 +1,3 @@
-# Revis-o-B-sica-HTML-e-CSS
+# Revisão Básica de HTML e CSS
+## HTML
 Repositório criado apenas para revisar conteúdos aprendidos anteriormente sobre HTML e CSS
